@@ -1,2 +1,2 @@
 # shardbatis-spring-boot-starter
-shardbatis integration with Spring Boot
+shardbatis Spring-Boot-Starter will help you use shardbatis with Spring Boot
